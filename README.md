@@ -29,5 +29,8 @@
 <br><p align="centre"><b>Visitors Count  </b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Akhil-Sharma-26}/count.svg" /></p> 
 <br>
+     ![wakatime](https://wakatime.com/badge/user/d9e426b7-97e0-44dd-acff-be7fccc7f477.svg)
+
 </div>
+
    
